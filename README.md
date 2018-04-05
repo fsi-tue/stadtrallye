@@ -10,4 +10,4 @@ Folgende Dinge sollten bei der Berechnung der Punktzahl eines Teams berücksicht
 - Pro Festival-Shirt im Team: +1 Pkt
 - Team mit dem jüngsten Teilnehmenden: +1 Pkt
 - Team mit dem ältesten Teilnehmenden: +1 Pkt
-- Das erste Team, dass den Bierkeller betritt: +1 Pkt
+- Das erste Team, das den Bierkeller betritt: +1 Pkt
